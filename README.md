@@ -8,7 +8,7 @@ A Home Assistant Lovelace card with a vertical slider and **two handles** to con
 
 1. In Home Assistant, open **HACS** → **Frontend**.
 2. Open the menu (⋮) → **Custom repositories**.
-3. Add the GitHub repo URL (for example: `https://github.com/sagargp/dual-cover-card`) with category **Lovelace**.
+3. Add the GitHub repo URL (for example: `https://github.com/sagargp/dual-cover-card`) with **Type** set to **Dashboard**.
 4. Search for **Dual Cover Card** in HACS → install.
 5. Restart Home Assistant (or at least reload the browser / clear cache).
 
