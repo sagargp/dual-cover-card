@@ -1255,7 +1255,7 @@ class DualCoverCardEditor extends HTMLElement {
 customElements.define('dual-cover-card-editor', DualCoverCardEditor);
 customElements.define('dual-cover-card', DualCoverCard);
 
-console.log('%cDual Cover Card v2.27', 'color: green; font-weight: bold; font-size: 14px;');
+console.log('%cDual Cover Card v1.0.0', 'color: green; font-weight: bold; font-size: 14px;');
 
 window.customCards = window.customCards || [];
 window.customCards.push({
